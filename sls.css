@@ -1,0 +1,175 @@
+/* body {
+    margin: 0;
+    padding: 0;
+    background-image: url(./img/Background.png);
+    background-size: cover;
+    background-position: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.content {
+    padding: 20px;
+    text-align: center;
+    position: relative;
+    top: -3000px;
+} */
+/* body{
+    background:#1A1C48 ;
+} */
+h4{
+    text-align: center;
+    color:#FFFFFF ;
+}
+/* .pervoe h5 {
+    color: #9499C3;
+}
+.pervoe h6 {
+    color: #9499C3;
+    opacity: 0.5;
+}
+.vtoroe h5 {
+    color: #9499C3;
+}
+.vtoroe h6 {
+    color: #9499C3;
+    opacity: 0.5;
+}
+.tretee h5 {
+    color: #9499C3;
+}
+.tretee h6 {
+    color: #9499C3;
+    opacity: 0.5;
+}
+.chetvertoe h5 {
+    color: #9499C3;
+}
+.chetvertoe h6 {
+    color: #9499C3;
+    opacity: 0.5;
+}
+.piatoe h5 {
+    color: #9499C3;
+}
+.piatoe h6 {
+    color: #9499C3;
+    opacity: 0.5;
+}
+.shestoe h5 {
+    color: #9499C3;
+}
+.shestoe h6 {
+    color: #9499C3;
+    opacity: 0.5;
+}
+.sedmoe h5 {
+    color: #9499C3;
+}
+.sedmoe h6 {
+    color: #9499C3;
+    opacity: 0.5;
+} */
+.examination h5 {
+    color: #9499C3;
+}
+.examination h6 {
+    color: #9499C3;
+    opacity: 0.5;
+}
+.pervoe .flex-container {
+    display: flex;
+    align-items: center;
+}
+
+.pervoe .text-container {
+    margin-left: 1px;
+}
+.pervoe h5 {
+    margin-bottom: 10px; 
+}
+
+.pervoe h6 {
+    margin-top: 0; 
+}
+
+.examination .flex-container {
+    display: flex;
+    align-items: center;
+}
+
+.examination .text-container {
+    margin-left: 1px;
+}
+.examination h5 {
+    margin-bottom: 10px;
+}
+
+.examination h6 {
+    margin-top: 0;
+}
+
+.speed {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
+.container {
+    text-align: left;
+}
+
+.examination,
+.speed {
+    display: inline-block; 
+    vertical-align: middle; 
+}
+.examination {
+    text-align: left;
+}
+.examination {
+    margin-inline-end: 150px; ;
+}
+.raketa {
+    text-align: center;
+    position: relative;
+    top: -600px;
+}
+.speed2 {
+    text-align: center;
+    position: relative; 
+    top: -1155px;
+}
+.vvv {
+    position: absolute;
+    left: 29%;
+    position:relative;
+    top: -1100px
+}
+.pane {
+    text-align: end;
+    position: relative;
+    top: -1580px;
+}
+.knopka {
+    position: relative;
+    top: -1600px; ; 
+}
+.knopka2 {
+    text-align: end;
+    position: relative;
+    top: -1770px;
+}
+.panel {
+    text-align: center;
+    position: relative;
+    top: -1870px;
+}
+.klan {
+    text-align: center;
+    position: relative;
+    top: -1940px;
+}
+
+.oydo {
+    position: relative;
+    top: -950px;
+}
